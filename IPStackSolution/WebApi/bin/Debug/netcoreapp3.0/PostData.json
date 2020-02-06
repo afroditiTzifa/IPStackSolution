@@ -1,0 +1,44 @@
+[
+{"IP": "91.223.42.100", 
+    "City": "Athens1", 
+    "Country": "Greece",
+    "Continent": "Europe", 
+    "Latitude": 37.96998977661133,
+    "Longitude": 23.719989776611328
+},
+{"IP": "91.223.42.200", 
+    "City": "Athens2", 
+    "Country": "Greece",
+    "Continent": "Europe", 
+    "Latitude": 50.96998977661133,
+    "Longitude": 50.719989776611328
+},
+{"IP": "91.223.42.300", 
+    "City": "Athens3", 
+    "Country": "Greece",
+    "Continent": "Europe", 
+    "Latitude": 50.96998977661133,
+    "Longitude": 50.719989776611328
+},
+{"IP": "91.223.42.400", 
+    "City": "Athens4", 
+    "Country": "Greece",
+    "Continent": "Europe", 
+    "Latitude": 50.96998977661133,
+    "Longitude": 50.719989776611328
+},
+{"IP": "91.223.42.500", 
+    "City": "Athens5", 
+    "Country": "Greece",
+    "Continent": "Europe", 
+    "Latitude": 50.96998977661133,
+    "Longitude": 50.719989776611328
+},
+{"IP": "91.223.42.600", 
+    "City": "Athens6", 
+    "Country": "Greece",
+    "Continent": "Europe", 
+    "Latitude": 50.96998977661133,
+    "Longitude": 50.719989776611328
+}
+]
