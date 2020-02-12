@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/IPStackSolution/WebApi/bin/Debug/netcoreapp3.0/WebApi.dll",
+            "program": "${workspaceFolder}/IPStackSolution/Lib.Api/bin/Debug/netcoreapp3.0/Lib.Api.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/IPStackSolution/WebApi",
+            "cwd": "${workspaceFolder}/IPStackSolution/Lib.APi",
             "stopAtEntry": false,
             "serverReadyAction": {
                 "action": "openExternally",

@@ -226,11 +226,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\apps\\IPStackSolution\\IPStackSolution\\Lib\\Lib.csproj",
+      "projectUniqueName": "C:\\apps\\ipstacksolution\\ipstacksolution\\Lib\\Lib.csproj",
       "projectName": "Lib",
-      "projectPath": "c:\\apps\\IPStackSolution\\IPStackSolution\\Lib\\Lib.csproj",
+      "projectPath": "C:\\apps\\ipstacksolution\\ipstacksolution\\Lib\\Lib.csproj",
       "packagesPath": "C:\\Users\\atzifa\\.nuget\\packages\\",
-      "outputPath": "c:\\apps\\IPStackSolution\\IPStackSolution\\Lib\\obj\\",
+      "outputPath": "C:\\apps\\ipstacksolution\\ipstacksolution\\Lib\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

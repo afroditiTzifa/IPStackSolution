@@ -1,0 +1,13 @@
+C:\Apps\IPStackSolution\IPStackSolution\Lib.Core\obj\Debug\netstandard2.0\Lib.Core.csprojAssemblyReference.cache
+C:\Apps\IPStackSolution\IPStackSolution\Lib.Core\obj\Debug\netstandard2.0\Lib.Core.AssemblyInfoInputs.cache
+C:\Apps\IPStackSolution\IPStackSolution\Lib.Core\obj\Debug\netstandard2.0\Lib.Core.AssemblyInfo.cs
+C:\Apps\IPStackSolution\IPStackSolution\Lib.Core\bin\Debug\netstandard2.0\Lib.Core.deps.json
+C:\Apps\IPStackSolution\IPStackSolution\Lib.Core\bin\Debug\netstandard2.0\Lib.Core.dll
+C:\Apps\IPStackSolution\IPStackSolution\Lib.Core\bin\Debug\netstandard2.0\Lib.Core.pdb
+C:\Apps\IPStackSolution\IPStackSolution\Lib.Core\obj\Debug\netstandard2.0\Lib.Core.dll
+C:\Apps\IPStackSolution\IPStackSolution\Lib.Core\obj\Debug\netstandard2.0\Lib.Core.pdb
+C:\apps\ipstacksolution\ipstacksolution\lib.core\bin\Debug\netstandard2.0\Lib.Data.dll
+C:\apps\ipstacksolution\ipstacksolution\lib.core\bin\Debug\netstandard2.0\Lib.Data.pdb
+C:\apps\ipstacksolution\ipstacksolution\lib.core\obj\Debug\netstandard2.0\Lib.Core.csproj.CopyComplete
+C:\apps\ipstacksolution\ipstacksolution\lib.core\bin\Debug\netstandard2.0\Lib.dll
+C:\apps\ipstacksolution\ipstacksolution\lib.core\bin\Debug\netstandard2.0\Lib.pdb

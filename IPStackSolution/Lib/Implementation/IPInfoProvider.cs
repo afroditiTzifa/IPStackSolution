@@ -1,46 +1,34 @@
-﻿using System;
+using System;
 using System.Configuration;
 using System.Net.Http;
 using System.Threading.Tasks;
-using Newtonsoft.Json;
 using Lib.Service;
+using Newtonsoft.Json;
 
-
-namespace Lib.Implementaion
-{
+namespace Lib.Implementaion {
     class IPInfoProvider : IIPInfoProvider, IDisposable
 
     {
-        static HttpClient client = new HttpClient();
+        static HttpClient client = new HttpClient ();
 
-
-
-        public async Task<IIPDetails> GetDetails(string uri)
-        {
+        public async Task<IIPDetails> GetDetails (string uri) {
             IPDetails details = null;
-            try
-            {           
-                HttpResponseMessage response = await client.GetAsync(uri);
-                if (response.IsSuccessStatusCode)
-                {
-                    string result =  await response.Content.ReadAsStringAsync();
-                    details = JsonConvert.DeserializeObject<IPDetails>(result);
+            try {
+                HttpResponseMessage response = await client.GetAsync (uri);
+                if (response.IsSuccessStatusCode) {
+                    string result = await response.Content.ReadAsStringAsync ();
+                    details = JsonConvert.DeserializeObject<IPDetails> (result);
                 }
 
-            }
-            catch (Exception ex)
-            { 
+            } catch (Exception ex) {
                 //2do “IPServiceNotAvailableException
             }
             return details;
         }
 
-
-         public void Dispose()
-        {
-            client.Dispose();
+        public void Dispose () {
+            client.Dispose ();
         }
-
 
     }
 }

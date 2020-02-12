@@ -1,8 +1,5 @@
-﻿
-namespace Lib.Service
-{
-    public interface IIPDetails
-    {
+namespace Lib.Service {
+    public interface IIPDetails {
 
         string City { get; set; }
         string Country { get; set; }

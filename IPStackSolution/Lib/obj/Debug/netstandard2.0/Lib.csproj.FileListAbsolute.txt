@@ -1,8 +1,8 @@
 C:\apps\IPStackSolution\IPStackSolution\Lib\bin\Debug\netstandard2.0\Lib.deps.json
 C:\apps\IPStackSolution\IPStackSolution\Lib\bin\Debug\netstandard2.0\Lib.dll
 C:\apps\IPStackSolution\IPStackSolution\Lib\bin\Debug\netstandard2.0\Lib.pdb
-C:\apps\IPStackSolution\IPStackSolution\Lib\obj\Debug\netstandard2.0\Lib.csprojAssemblyReference.cache
 C:\apps\IPStackSolution\IPStackSolution\Lib\obj\Debug\netstandard2.0\Lib.AssemblyInfoInputs.cache
 C:\apps\IPStackSolution\IPStackSolution\Lib\obj\Debug\netstandard2.0\Lib.AssemblyInfo.cs
 C:\apps\IPStackSolution\IPStackSolution\Lib\obj\Debug\netstandard2.0\Lib.dll
 C:\apps\IPStackSolution\IPStackSolution\Lib\obj\Debug\netstandard2.0\Lib.pdb
+C:\apps\ipstacksolution\ipstacksolution\Lib\obj\Debug\netstandard2.0\Lib.csprojAssemblyReference.cache
